@@ -1,0 +1,35 @@
+{
+  "usuarios": [],
+  "anuncios": [
+    {
+      "id": 0,
+      "tituloProduto": "Vintage Clock",
+      "tipoProduto": "troca",
+      "categoriaProduto": "Timepieces",
+      "condicaoProduto": "New",
+      "precoProduto": 150,
+      "descricaoProduto": "A well-preserved vintage clock.",
+      "fotoProduto": "https://img.freepik.com/premium-photo/broken-old-vintage-clock-without-arrows-abandoned-garden_154224-206.jpg",
+      "termoContato": false
+    },
+    {
+      "tituloProduto": "Max Steel",
+      "tipoProduto": "doacao",
+      "categoriaProduto": "brinquedos",
+      "condicaoProduto": "usado",
+      "descricaoProduto": "Boneco da fabricado em 1990",
+      "fotoProduto": "https://th.bing.com/th/id/OIP.ZtNivxUWq9APDy8bNzRq_wHaHQ?w=180&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "id": 1
+    },
+    {
+      "tituloProduto": "Max Steel",
+      "tipoProduto": "venda",
+      "categoriaProduto": "brinquedos",
+      "condicaoProduto": "usado",
+      "precoProduto": "22",
+      "descricaoProduto": "Boneco da fabricado em 1990",
+      "fotoProduto": "https://th.bing.com/th/id/OIP.ZtNivxUWq9APDy8bNzRq_wHaHQ?w=180&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "id": 2
+    }
+  ]
+}
